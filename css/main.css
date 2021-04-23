@@ -1,0 +1,47 @@
+/*DEVELOPER: Jansen Pimentel, IS117-002, Spring 2021*/
+.card {
+    margin: auto;
+    text-align: center;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+img.yes {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+div.overlay {
+    margin-top: 20px;
+}
+
+.img-fluid rounded {
+    height: 210px;
+    width: 450px;
+}
+
+.col-4 {
+    background-color: lightblue;
+}
+
+.col-5 {
+    background-color: lightblue;
+}
+
+.contact {
+    margin-left: 42%;
+    margin-top: 15px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: .75rem;
+}
